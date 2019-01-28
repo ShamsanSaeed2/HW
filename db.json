@@ -1,0 +1,211 @@
+{
+  "accounts": [
+    {
+      "name": "",
+      "email": "",
+      "balance": 0,
+      "password": "",
+      "transactions": []
+    },
+    {
+      "name": "Sam Saeed",
+      "email": "sam.saeed@gmail.com",
+      "password": "Test1",
+      "balance": 0,
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-25T22:42:24.987Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-25T22:42:34.422Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:01:39.727Z"
+        }
+      ]
+    },
+    {
+      "name": "Sam2 Saeed",
+      "email": "sam2@gmail.com",
+      "password": "test2",
+      "balance": 3975,
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-28T13:48:37.580Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T13:53:35.363Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:01:34.803Z"
+        },
+        {
+          "action": "deposit",
+          "amount": "5000",
+          "timestamp": "2019-01-28T14:02:20.669Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 5000,
+          "timestamp": "2019-01-28T14:02:33.651Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": "1000",
+          "timestamp": "2019-01-28T14:02:43.291Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": "25",
+          "timestamp": "2019-01-28T14:05:05.510Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 3975,
+          "timestamp": "2019-01-28T14:05:20.774Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:06:58.920Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:07:14.746Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:08:00.583Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:08:12.070Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:08:12.976Z"
+        }
+      ]
+    },
+    {
+      "name": "Sam3 Saeed",
+      "email": "sam3@gmail.com",
+      "password": "test3",
+      "balance": 0,
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:12:11.156Z"
+        }
+      ]
+    },
+    {
+      "name": "Sam4 Saeed",
+      "email": "sam4@gmail.com",
+      "password": "test4",
+      "balance": 1500,
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:13:11.167Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:13:28.182Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:14:39.951Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:15:14.514Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:15:25.808Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:16:05.732Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T14:21:52.808Z"
+        },
+        {
+          "action": "deposit",
+          "amount": "2000",
+          "timestamp": "2019-01-28T14:22:05.894Z"
+        }
+      ]
+    },
+    {
+      "name": "Sam Saeed",
+      "email": "sam5@gmail.com",
+      "password": "test5",
+      "balance": 7000,
+      "transactions": [
+        {
+          "action": "create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:52:43.121Z"
+        },
+        {
+          "action": "login",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:54:27.306Z"
+        },
+        {
+          "action": "deposit",
+          "amount": "10000",
+          "timestamp": "2019-01-28T15:54:43.372Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": "3000",
+          "timestamp": "2019-01-28T15:54:58.931Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 7000,
+          "timestamp": "2019-01-28T15:56:07.055Z"
+        },
+        {
+          "action": "Balance",
+          "amount": 7000,
+          "timestamp": "2019-01-28T16:05:28.688Z"
+        },
+        {
+          "action": "withdraw",
+          "amount": "35",
+          "timestamp": "2019-01-28T16:05:51.396Z"
+        }
+      ]
+    }
+  ]
+}
